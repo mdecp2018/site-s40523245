@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="yen.20170108171605.1" a="E"><vh>@settings</vh>
+<v t="yen.20170108171605.1"><vh>@settings</vh>
 <v t="yen.20170108171605.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -70,6 +70,7 @@
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180910.md</vh></v>
+<v t="leo.20180909205246.1"><vh>@edit 20180911.md</vh></v>
 </v>
 </v>
 </v>
