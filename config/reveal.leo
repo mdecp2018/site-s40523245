@@ -24,6 +24,27 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20190112135608.1" a="E"><vh>第二週</vh>
+<v t="leo.20190112135608.2"><vh>w2</vh></v>
+</v>
+<v t="leo.20190112135635.1" a="E"><vh>第三週</vh>
+<v t="leo.20190112135635.2"><vh>w3</vh></v>
+</v>
+<v t="leo.20190112135638.1" a="E"><vh>第四週</vh>
+<v t="leo.20190112135638.2"><vh>w4</vh></v>
+</v>
+<v t="leo.20190112135701.1" a="E"><vh>第五週</vh>
+<v t="leo.20190112135701.2"><vh>w5</vh></v>
+</v>
+<v t="leo.20190112140650.1" a="E"><vh>第六週</vh>
+<v t="leo.20190112140650.2"><vh>w6</vh></v>
+</v>
+<v t="leo.20190112140412.1" a="E"><vh>第七週</vh>
+<v t="leo.20190112140412.2"><vh>w7</vh></v>
+</v>
+<v t="leo.20190112140418.1" a="E"><vh>第八週</vh>
+<v t="leo.20190112140418.2"><vh>w8</vh></v>
+</v>
 <v t="leo.20190112134910.1" a="E"><vh>第九週</vh>
 <v t="leo.20190112134910.2"><vh>w9</vh></v>
 </v>
@@ -397,6 +418,140 @@ Created by [s40523245](https://github.com/mdecp2018/site-s40523245)
 期末自評:60
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eJi-v_2ln1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190112135608.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190112135608.2">## 第二週
+
+path 命令執行指令
+
+cmd = command
+
+git checkout gh-pages 導出分支資料
+
+self-signed 自我憑證
+</t>
+<t tx="leo.20190112135635.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190112135635.2">## 第三週
+
+中秋連假，停課一次
+</t>
+<t tx="leo.20190112135638.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190112135638.2">## 第四週
+
+nslookup 符號名稱伺服器查詢
+
+git pull 將遠端版本拉下來(更新版本)
+</t>
+<t tx="leo.20190112135701.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190112135701.2">## 第五週
+
+熟練python語法
+
+</t>
+<t tx="leo.20190112140412.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190112140412.2">## 第七週
+
+github問題
+
+應急處理:
+1.因為githud無法登入
+
+2.所以利用 Fossil SCM 建立區域網路
+
+3.開始教學如何使用Fossil SCM，來更新網頁
+
+4.如果githud之後都不能使用就只能用Fossil SCM
+
+</t>
+<t tx="leo.20190112140418.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190112140418.2">## 第八週
+
+git remote add指令
+
+同步倉儲gitlab
+1.先到gitlab可以用自己的github帳號登入
+
+2.之後在gitlab創建一個倉儲
+
+3.然後到個人資料設定密碼，跟github密碼一樣
+
+4.git remote add cp2018 https://gitlab.com/s40523245/cp2018-s40523245
+
+5.git push cp2018 完成後就同步了
+
+</t>
+<t tx="leo.20190112140650.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190112140650.2">## 第六週
+
+修正bug的發生
+
+更新CMSimfly 倉儲中的flaskspp.py
+1.先到mde.tw &gt; 18CP &gt; 工具 &gt; CMSimfly
+
+2.進入https://github.com/chiamingyen/cmsimfly
+
+3.點flaskapp.py &gt; Raw &gt; Ctrl+a(全選) &gt; 複製
+
+4.到自己的site-s40523245，打開flaskapp.py把裡面刪掉
+
+5.貼上，Save &gt; git push
+
 </t>
 </tnodes>
 </leo_file>
