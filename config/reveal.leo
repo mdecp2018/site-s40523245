@@ -388,6 +388,9 @@ Created by [s40523245](https://github.com/mdecp2018/site-s40523245)
 <t tx="leo.20190112135022.2">## 第十六週
 
 小組期末專案
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pCB0X9rc01s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
 <t tx="leo.20190112135030.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -402,7 +405,7 @@ Created by [s40523245](https://github.com/mdecp2018/site-s40523245)
 
 分成三次來補課
 
-講解python語法以及應用
+講解python的語法和運用 : 判斷式if 、while 迴圈 、for 迴圈 、 集合的運用 、字典的運用 、有序可變動列表 List 、有序不可變動列表 Tuple
 </t>
 <t tx="leo.20190112135041.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -415,7 +418,9 @@ Created by [s40523245](https://github.com/mdecp2018/site-s40523245)
 </t>
 <t tx="leo.20190112135041.2">## 期末自評
 
-期末自評:60
+期末自評 : 65分
+
+[期末專案報告](https://mdecp2018.github.io/finalproject-bg7/downloads/%E7%AC%AC%E4%B8%83%E7%B5%84%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.pdf)
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eJi-v_2ln1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
